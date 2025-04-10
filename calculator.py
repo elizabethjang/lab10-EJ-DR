@@ -4,6 +4,9 @@ calculator.py
 
 One function per operation, in order.
 """
+#https://github.com/elizabethjang/lab10-EJ-DR.git
+#Partner 1: Elizabeth Jang
+#Partner 2: Derek Rosales
 # First example
 def add(a, b):
     return a + b

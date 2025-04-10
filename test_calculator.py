@@ -1,6 +1,10 @@
 import unittest
 import calculator
 
+#https://github.com/elizabethjang/lab10-EJ-DR.git
+#Partner 1: Elizabeth Jang
+#Partner 2: Derek Rosales
+
 class TestCalculator(unittest.TestCase):
     ######## Partner 2
     def test_add(self): # 3 assertions
